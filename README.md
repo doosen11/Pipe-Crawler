@@ -1,6 +1,6 @@
 # Pipe-Crawler
 This code was written to control the sensors of the Pipe Crawler created for MakeHarvard 2019
-
+The code is written by Rajvi shah and Dawson Rosell.
 The code is written for the Sparkfun ESP32 Thing board, and programmed using the Arduino IDE. 
 It initializes two sensors, a CCS811 Air Quality Sensor and a Sparkfun Sonar Sensor breakout board. 
 After initializing the sensors, a simple server is created on port 80 on the WiFi, and hosts a website locally. 
