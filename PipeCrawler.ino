@@ -1,6 +1,7 @@
 #include <WiFi.h>
 #include <SparkFunCCS811.h>
 #include <Wire.h>
+//code to connect sonar sensors and air quality sensor to the robot
 
 const char* ssid     = "Harvard University";
 const int trigPin = 5;
